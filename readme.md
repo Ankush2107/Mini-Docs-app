@@ -1,5 +1,4 @@
 # Mini Docs App
-
 A simple document application built with React, Framer Motion, and React Icons.
 
 ### Background
