@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 function Card({ data, reference }) {
 
   return (
-        <motion.div drag dragConstraints={reference} whileDrag={{scale: 1.2}}  dragTransition={{ bounceStiffness: 600, bounceDamping: 10 }} className='relative w-60 h-72 flex-shrink-0 rounded-[40px] px-8 py-10 bg-zinc-900 text-white overflow-hidden'>
+        <motion.div drag dragConstraints={reference} whileDrag={{scale: 1.1}}  dragTransition={{ bounceStiffness: 600, bounceDamping: 10 }} className='relative w-60 h-72 flex-shrink-0 rounded-[40px] px-8 py-10 bg-zinc-900 text-white overflow-hidden'>
             <FaRegFileLines/>
             <div className='text-sm leading-tight mt-5 font-semibold'>{ data.desc }</div>
             <div className='absolute bottom-0 left-0 w-full'>
