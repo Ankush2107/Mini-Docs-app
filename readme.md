@@ -2,14 +2,6 @@
 
 A simple document application built with React, Framer Motion, and React Icons.
 
-- [Background](<a href="Background"></a>)
-- [Foreground](<a href="Foreground"></a>)
-- [Card](<a href="Card"></a>)
-- [Getting Started](<a href="Getting Started"></a>)
-- [Dependencies](<a href="Dependencies"></a>)
-- [Scripts](<a href="Scripts"></a>)
-- [Contributing](<a href="Contributing"></a>)
-
 ### Background
 The Background component provides a fixed background for the application, displaying a title and a large heading.
 
